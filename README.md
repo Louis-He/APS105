@@ -16,6 +16,7 @@ INPUT = 7;//compile time error
 ```
 
 ### Printf
+
 printf("The result is:%d", result);// %d: decimal integer
 printf("The result is %d %d", input, output");
 ```
@@ -32,3 +33,10 @@ printf("%.2lf", PI); // Print 3.14
 ```
 
 ### Scanf
+
+```
+int inputs;
+scanf("%d", &input);//& : the address of
+```
+
+
