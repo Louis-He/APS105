@@ -1,7 +1,0 @@
-# Lec03
-
-## Named constants
-```
-const int INPUT = 5;
-INPUT = 7; //Compile-time Error
-```
